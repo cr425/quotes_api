@@ -1,0 +1,414 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lab",
+				"labels"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"begin",
+				"beginAtZero"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"date",
+				"daterangepicker"
+			],
+			[
+				"web",
+				"webbrowser"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 129.0,
+		"last_filter": "install pack",
+		"selected_items":
+		[
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"insl	",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"install",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ramjacr/Desktop/fun_api/quotes.py",
+		"/C/Users/ramjacr/Desktop/fun_api/app.py",
+		"/C/Users/ramjacr/Desktop/fun_api/quotes.pyc",
+		"/C/Users/ramjacr/Desktop/RAMM - Github/main/production/RAMM_Management.html",
+		"/C/Users/ramjacr/Desktop/RAMM - Github/main/production/RAMM_Technical.html",
+		"/C/Users/ramjacr/Desktop/RAMM - Github/main/production/RAMM_Stressed Income.html",
+		"/C/Users/ramjacr/Desktop/RAMM - Github/main/production/RAMM_Login.html",
+		"/C/Users/ramjacr/Desktop/RAMM - Github/main/production/RAMM_Wholesale Credit.html",
+		"/C/Users/ramjacr/Desktop/RAMM - Github/main/production/RAMM.html",
+		"/C/Users/ramjacr/Desktop/RAMM/gentelella-master/build/js/custom.js",
+		"/C/Users/ramjacr/Desktop/RAMM/gentelella-master/production/RAMM_Management.html",
+		"/C/Users/ramjacr/Desktop/RAMM/gentelella-master/production/RAMM_Login.html",
+		"/C/Users/ramjacr/Desktop/RAMM/gentelella-master/production/RAMM_Wholesale Credit.html",
+		"/C/Users/ramjacr/Desktop/RAMM/gentelella-master/production/RAMM_Stressed Income.html",
+		"/C/Users/ramjacr/Desktop/RAMM/gentelella-master/production/RAMM.html",
+		"/C/Users/ramjacr/Desktop/RAMM/gentelella-master/production/RAMM_Technical.html",
+		"/C/Users/ramjacr/Desktop/RAMM/gentelella-master/vendors/zurb-joyride/joyride-2.1.css",
+		"/C/Users/ramjacr/Desktop/RAMM/gentelella-master/production/index2.html",
+		"/C/Users/ramjacr/Desktop/RAMM/gentelella-master/vendors/zurb-joyride/jquery.joyride-2.1.js",
+		"/C/Users/ramjacr/Desktop/RAMM/gentelella-master/production/RAMM_Dashboard.html",
+		"/C/Users/ramjacr/Desktop/RAMM/gentelella-master/production/form.html",
+		"/C/Users/ramjacr/Desktop/RAMM/login/index.html",
+		"/C/Users/ramjacr/Desktop/RAMM/gentelella-master/production/login.html",
+		"/C/Users/ramjacr/Desktop/RAMM/gentelella-master/vendors/bootstrap-daterangepicker/example/amd/index.html",
+		"/C/Users/ramjacr/Desktop/RAMM/gentelella-master/vendors/bootstrap-daterangepicker/demo.html",
+		"/C/Users/ramjacr/Desktop/RAMM/gentelella-master/production/tables.html",
+		"/C/Users/ramjacr/Desktop/RAMM/gentelella-master/production/index.html",
+		"/C/Users/ramjacr/Desktop/RAMM/gentelella-master/production/general_elements.html",
+		"/C/Users/ramjacr/Desktop/RAMM/startbootstrap-stylish-portfolio-gh-pages/index.html",
+		"/C/Users/ramjacr/Desktop/RAMM/startbootstrap-stylish-portfolio-gh-pages/css/stylish-portfolio.css",
+		"/C/Users/ramjacr/Desktop/RAMM/startbootstrap-stylish-portfolio-gh-pages/css/bootstrap.min.css",
+		"/C/Users/ramjacr/Desktop/RAMM/startbootstrap-stylish-portfolio-gh-pages/css/bootstrap.css",
+		"/C/Users/ramjacr/Desktop/RAMM/gentelella-master/build/js/custom.min.js",
+		"/C/Users/ramjacr/Desktop/RAMM/gentelella-master/production/js/moment/moment.min.js",
+		"/C/Users/ramjacr/Desktop/RAMM/gentelella-master/vendors/morris.js/examples/bar.html",
+		"/C/Users/ramjacr/Desktop/30 Days of Code/raise_exception",
+		"/C/Users/ramjacr/Desktop/30 Days of Code/string_to_int_exception.py",
+		"/C/Users/ramjacr/Desktop/RAMM/gentelella-master/production/morisjs.html",
+		"/C/Users/ramjacr/Desktop/RAMM/gentelella-master/documentation/index.html",
+		"/C/Users/ramjacr/Documents/predataprox/app.py",
+		"/C/Users/ramjacr/Desktop/CHROME/popup.js",
+		"/C/Users/ramjacr/Desktop/CHROME/manifest.json",
+		"/C/Users/ramjacr/Desktop/CHROME/popup.html",
+		"/C/Users/ramjacr/Desktop/appengine/index.html",
+		"/C/Users/ramjacr/Desktop/ud858-master/Lesson_2/000_Hello_Endpoints/static/index.html",
+		"/C/Users/ramjacr/Desktop/ud858-master/Lesson_2/000_Hello_Endpoints/static/hello.js",
+		"/C/Users/ramjacr/Python/code/k_means/k_means_cluster.py",
+		"/C/Users/ramjacr/Desktop/Coding/Machine Learning/ud120-projects-master/k_means/k_means_cluster.py",
+		"/C/Users/ramjacr/Desktop/mapit.py",
+		"/C/Users/ramjacr/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/ramjacr/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"EY Risk Appetite Management Tool",
+			"sELECT RWA",
+			"<option>",
+			"<option></option>",
+			"5001",
+			"lob",
+			"60",
+			"8001",
+			"                            <option></option>\n",
+			"5001",
+			"credit risk",
+			"sidebar",
+			"counterparty",
+			"Liquidity",
+			"credit",
+			"asset",
+			"credit",
+			"credit risk",
+			"counterparty",
+			"asset",
+			"liability",
+			"Column ",
+			"Add Limit",
+			"In Millions",
+			"Risk Appetite Parameters",
+			"Risk Appetite",
+			"Homes",
+			"Limits / ",
+			"Limits/Actuals",
+			"Stressed",
+			"Select Line of Business",
+			"C&I",
+			"Risk Appetite Summary",
+			"Credit Risk",
+			"Stressed Net Income",
+			"Risk Appetite Parameters & Tolerances",
+			"Risk Appetite Parameter",
+			"Risk Appetite",
+			"img",
+			"legend",
+			"chart3",
+			"legend",
+			"chart3",
+			"intro",
+			"chart3",
+			"select line",
+			"mybarChart_3",
+			"joyride",
+			"td",
+			"foundation",
+			"barchart3",
+			"barthcart3",
+			"fill",
+			"first data",
+			"my First Dataset",
+			"canvas",
+			"mybar",
+			"technical",
+			"Management Setup",
+			"Limits",
+			"Limits/Actuals",
+			"fa fa-home",
+			"Dashboard",
+			"Dashboard\n",
+			"send for approval",
+			"limit",
+			"1001",
+			"id='limit'",
+			"limit",
+			"1001",
+			"mybarChart_3",
+			"x_content",
+			"graph1",
+			"x_title",
+			"mybarChart3",
+			"Identify the expected versus actual risks associated with RWA",
+			"Identify the expected versus actual risks associated with RWA.",
+			"Identify the expected versus actual risks associated with RWA.\n\n",
+			"jquery.min.js",
+			"limitid",
+			"2001",
+			"mybarChart3",
+			"mybarchart3",
+			"mybar",
+			"id=",
+			"jQuery",
+			"graph1",
+			"RWA - Limits/Actuals",
+			"RWA - Limits/Actuals\n",
+			"</div",
+			"mybar",
+			"grap",
+			"my graph",
+			"risk total",
+			"redcomp",
+			"company",
+			"stressednetincome",
+			"This is one of the types of risks associated with the company.",
+			"This is one of the types of risks associated with the company.\n\n",
+			"general_list",
+			"operational",
+			"documentation",
+			"build",
+			"greencomp",
+			"marketrisk",
+			"title",
+			"Risk Appetite Parameters & Tolerances",
+			"Risk Appetite Parameters & Tolerances\n",
+			"Market",
+			"limit",
+			"limitov",
+			"<ol",
+			"101",
+			"101	",
+			"<ol",
+			"foundation",
+			"joyride",
+			"<ol",
+			"function",
+			"foundation",
+			"<ol",
+			"ol",
+			"old",
+			"id",
+			"/body",
+			"operation",
+			"Credit",
+			"	Credit"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Dashboard Tool",
+			"",
+			"Risk Appetite Home",
+			"<input type=\"file\" class = \"form-control center block\" data-role=\"magic-overlay\" data-target=\"#pictureBtn\" data-edit=\"insertImage\" />",
+			"daterange7",
+			"daterange6",
+			"daterange5",
+			"daterange6",
+			"daterange5",
+			"daterange4",
+			"readonly=\"readonly\"",
+			"2001",
+			"d9f2e6",
+			"<td bgcolor=\"#ffb3b3\">",
+			"FirstSheet",
+			"<td bgcolor=\"#d9f2e6\">",
+			"FirstSheet",
+			"FormulaSheet",
+			"Scan_Area",
+			"newwb",
+			"currentwb"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\ramjacr\\Desktop\\fun_api\\quotes.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 151.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
